@@ -14,7 +14,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/abhishek-lakhani-it/budget-tracker.git
+git clone https://github.com/abhisheklakhani-it/budget-tracker.git
 cd budget-tracker
 Install Dependencies:
 Ensure you have Python installed. Install required libraries using pip:
