@@ -1,24 +1,26 @@
 <h1>Budget Tracker</h1>
 
 
-Overview<br>
+<h3>Overview</h3><br>
 The Budget Tracker is a Python application designed to help users manage their finances by tracking income and expenses. It provides insightful visualizations using Matplotlib to help users understand their spending patterns and manage their budget more effectively.<br>
 
-Features<br>
+<h3>Features</h3><br>
 Add Income: Easily input your income to keep track of your earnings.<br>
 Add Expenses: Categorize and log your expenses to monitor where your money goes.<br>
-Summary Report: Get a summary of your total income, total expenses, and remaining balance.<br>
-Visualizations:<br>
+Summary Report: Get a summary of your total income, total expenses, and remaining balance.<be>
+
+<h3>Visualizations:</h3><br>
 Expenses by Category: Visualize your expenses in a pie chart to see the distribution across different categories.
-Income vs. Expenses: Compare your total income and total expenses with a bar chart.<br>
-Installation<br>
+Income vs. Expenses: Compare your total income and total expenses with a bar chart.<be>
+
+<h3>Installation</h3><br>
 Clone the Repository:<br>
 
 sh
 Copy code
 git clone https://github.com/abhisheklakhani-it/budget-tracker.git
 cd budget-tracker
-Install Dependencies:<br>
+<h3>Install Dependencies:</h3><br>
 Ensure you have Python installed. Install required libraries using pip:
 
 sh
@@ -62,9 +64,9 @@ Balance: $3800.00
 Expenses by Category:
   Rent: $1200.00
 <br>
-Contribution<br>
+<h3>Contribution</h3><br>
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-<br>
-Contact<br>
+<be>
+<<h3>Contact</h3><br>
 If you have any questions or suggestions, feel free to open an issue or contact me directly at abhisheklakhani.it@gmail.com.
 <br>
